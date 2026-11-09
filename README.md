@@ -2,12 +2,10 @@
 
 # Jinseo Kim
 
-<samp>Systems Software · Efficient AI Inference & Serving · AX Architecture</samp>
+<h3><samp>Systems Software · Efficient AI Inference & Serving · AX Architecture</samp></h3>
 
-<br><br>
-
-Exploring how systems run, how AI runs efficiently,<br>
-and how AI-powered workflows fit together.
+<h3>Exploring how systems run, how AI runs efficiently,<br>
+and how AI-powered workflows fit together.</h3>
 
 <br>
 
@@ -17,22 +15,23 @@ and how AI-powered workflows fit together.
 
 ---
 
-## `$ whoami`
+## whoami
 
-```yaml
-university: Chung-Ang University
+
+### Chung-Ang University
 fields:
-  - Art & Technology
+  - Art & Technology In Development of Software Engineering
   - System Software
-lab: Computer Systems Laboratory (CSLab)
-interests:
+lab: Computer Systems Laboratory (CSLab) In Development of Computer Engineering
+
+### Interests:
   - Operating Systems
   - Memory Management
   - GPU Computing
   - On-device AI
   - AI Serving
   - AX Architecture Design
-```
+
 
 I'm a developer interested in systems software, efficient AI inference and serving,
 and AX architecture design.
@@ -40,7 +39,7 @@ and AX architecture design.
 My interests span the systems that execute AI and the architectures that put AI
 to work.
 
-## `$ ls /toolbox`
+## toolbox
 
 **Languages**
 
@@ -60,18 +59,18 @@ to work.
 
 ![Arduino](https://img.shields.io/badge/Arduino-161B22?style=flat-square&logo=arduino&logoColor=00878F)
 
-## `$ ls ~/projects`
+## projects
 
 ### Robot Arm for Aircraft Wing Drilling
 
-`Robotics` `Industrial Automation` `Software–Hardware Interface`
+`Robotics` `Industrial Automation` `Software–Hardware Interface` `FastAPI` `System Computing`
 
 Software interface development for an industrial robotic arm that drills holes
 in aircraft wings.
 
 ### Smart Door
 
-`IoT` `Arduino` `Weather API` `Software–Hardware Integration`
+`IoT` `Arduino` `MQTT` `Weather API` `Software–Hardware Integration` `node.js` `React`
 
 A smart entrance system that helps users remember everyday essentials before
 leaving home.
@@ -82,7 +81,7 @@ leaving home.
 
 ### Lego Digital World
 
-`Digital Twin` `Unity` `Physical-to-Digital` `3D Interaction`
+`Digital Twin` `Unity` `Physical-to-Digital` `3D Interaction` `FastAPI` `WebSocket`
 
 A digital twin project that brings physically assembled LEGO creations into a
 shared Unity world.

@@ -17,7 +17,7 @@ Exploring memory management, I/O, and parallel and distributed systems.
 
 ## About
 
-I'm an undergraduate researcher and developer at **Chung-Ang University**, studying **Art & Technology and Systems Software Engineering** and conducting research on **on-device and edge AI** at the **Computer Systems Laboratory (CSLab)**.
+I'm an undergraduate researcher and developer at **Chung-Ang University**, major is **Systems Software Engineering and Art & Technology.** and conducting research on **on-device and edge AI** at the **Computer Systems Laboratory (CSLab)**.
 
 My primary interest is **systems software, especially operating systems**. I approach efficient AI execution through **memory management, I/O behavior, and the coordination of computation and data movement**. I also explore how parallel and distributed systems can support AI workloads across devices, edge infrastructure, and servers.
 

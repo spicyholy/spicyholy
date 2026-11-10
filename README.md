@@ -18,23 +18,31 @@ Researching how AI runs efficiently on devices and at the edge.
 <br><br>
 
 <a href="mailto:tragic.coding@gmail.com"><img src="https://img.shields.io/badge/Email-tragic.coding%40gmail.com-2563EB?style=flat-square&logo=gmail&logoColor=white" alt="Email: tragic.coding@gmail.com"></a>
+<a href="https://app.notion.com/p/25-03-36fe5af9ec6b8003918ffc6202ecd07d?source=copy_link"><img src="https://img.shields.io/badge/Notion-Study_Notes-161B22?style=flat-square&logo=notion&logoColor=white" alt="Study notes on Notion"></a>
 
 </div>
 
+<p align="center">
+<a href="#research">Research</a> &nbsp;·&nbsp;
+<a href="#projects">Projects</a> &nbsp;·&nbsp;
+<a href="#stack">Technical Stack</a> &nbsp;·&nbsp;
+<a href="#notes">Study Notes</a>
+</p>
+
 ---
 
-## Profile
+## 👤 Profile
 
 I'm an undergraduate researcher and developer focused on **systems software and efficient AI execution**. My primary interest is **operating systems**, particularly how memory management, I/O, and resource coordination affect AI workloads.
 
 I conduct research on **on-device and edge AI** and explore **parallel and distributed systems** as foundations for efficient execution across devices, edge infrastructure, and servers. I am also interested in **AX architecture design**, connecting AI models, agents, tools, and services into practical workflows.
 
-## Education
+## 🎓 Education
 
 **Chung-Ang University**  
 Systems Software Engineering · Art & Technology
 
-## Experience & Recognition
+## 🏅 Experience & Recognition
 
 | Period | Experience | Organization |
 | :--- | :--- | :--- |
@@ -43,66 +51,165 @@ Systems Software Engineering · Art & Technology
 | **2025** | Undergraduate Researcher · AI Team | **Complex Intelligent System Lab (CISLab)**<br>Department of Art & Technology, Chung-Ang University |
 | **2023–2024** | Honor Guard · Sergeant<br>Completed full military service | **Republic of Korea Ministry of National Defense** |
 
-## Research & Learning
+---
 
-| Area | Focus |
+<a id="research"></a>
+
+## 🔬 Research & Learning
+
+<table>
+<tr>
+<td width="33%" valign="top">
+<h3>🖥️ Systems Software</h3>
+<strong>Operating systems as the foundation.</strong>
+<p>Memory management, I/O, concurrency, and resource management.</p>
+</td>
+<td width="33%" valign="top">
+<h3>📱 On-device &amp; Edge AI</h3>
+<strong>Efficient execution under resource constraints.</strong>
+<p>AI inference across devices, edge infrastructure, and servers.</p>
+</td>
+<td width="33%" valign="top">
+<h3>🧩 AX Architecture</h3>
+<strong>Connecting AI capabilities to practical workflows.</strong>
+<p>Models, agents, tools, orchestration, and backend integration.</p>
+</td>
+</tr>
+</table>
+
+> **My systems perspective**  
+> How do memory capacity, I/O bottlenecks, synchronization, and communication costs shape the performance of AI workloads?
+
+I explore these questions through **operating systems and parallel and distributed systems**, with an interest in how computation and data movement are coordinated across execution environments.
+
+<a id="projects"></a>
+
+## 🛠️ Selected Projects
+
+Alongside my research and studies, I build **backend services and IoT applications** that connect software, data, and physical devices.
+
+### 🤖 Robot Arm for Aircraft Wing Drilling
+
+**Industrial automation · Software–hardware integration**
+
+A software interface for an industrial robotic arm used to drill holes in aircraft wings.
+
+`FastAPI` `Industrial Automation` `Software–Hardware Interface`
+
+<details>
+<summary><strong>View project focus</strong></summary>
+
+- Connects application-level software with physical automation equipment.
+- Focuses on the interface between software and the drilling workflow.
+
+</details>
+
+### 🚪 Smart Door
+
+**IoT · Backend services · Sensor-driven automation**
+
+A smart entrance system that combines departure detection, weather information, and reminders for everyday essentials.
+
+`Node.js` `React` `MySQL` `MQTT` `Arduino` `Weather API`
+
+<details>
+<summary><strong>View features & integration</strong></summary>
+
+| Component | Role |
 | :--- | :--- |
-| **Systems Software** | Operating systems, memory management, I/O, concurrency, and resource management |
-| **On-device & Edge AI** | Efficient inference under memory and compute constraints; execution across device, edge, and server environments |
-| **AX Architecture Design** | AI workflow architecture, agent orchestration, and integration with tools and backend services |
+| **Sensors & Arduino** | Departure detection and physical device control |
+| **MQTT** | Messaging between connected devices and services |
+| **MySQL** | Application data storage |
+| **Weather API** | Weather information for automatic umbrella-holder activation |
+| **Voice reminders** | Reminders for frequently forgotten items |
 
-I am particularly interested in how **memory capacity, I/O bottlenecks, synchronization, and communication costs** influence performance and scalability.
+</details>
 
-## Selected Projects
+### 🧱 Lego Digital World
 
-Alongside my research and studies, I develop **backend services and IoT applications**, connecting APIs, sensors, physical devices, and interactive software.
-
-### Robot Arm for Aircraft Wing Drilling
-
-`Industrial Automation` `Software–Hardware Integration` `FastAPI`
-
-Software interface development for an industrial robotic arm used to drill holes in aircraft wings, connecting application-level software with physical automation equipment.
-
-### Smart Door
-
-`IoT` `Arduino` `MQTT` `Node.js` `React` `Weather API`
-
-A smart entrance system that helps users remember everyday essentials before leaving home.
-
-- Detects departure using Arduino-connected sensors.
-- Uses weather data to activate an automatic umbrella holder.
-- Provides voice reminders for frequently forgotten items.
-
-### Lego Digital World
-
-`Digital Twin` `Unity` `FastAPI` `WebSocket` `3D Interaction`
+**Digital twin · Backend services · Real-time interaction**
 
 A physical-to-digital experience that brings real LEGO creations into a shared Unity environment.
 
-- Recreates physically assembled LEGO creations as 3D assets.
-- Animates characters based on user-specified actions.
-- Connects backend services and Unity through real-time communication, enabling interaction with other users' characters.
+`FastAPI` `PostgreSQL` `WebSocket` `Unity` `3D Interaction`
 
-## Technical Stack
+<details>
+<summary><strong>View features & integration</strong></summary>
 
-**Languages**
+| Component | Role |
+| :--- | :--- |
+| **3D assets** | Digital representations of physically assembled LEGO creations |
+| **FastAPI & PostgreSQL** | Backend services and application data storage |
+| **WebSocket** | Real-time communication between backend services and Unity |
+| **Unity** | Character animation and interaction with other users' characters |
 
-![Python](https://img.shields.io/badge/Python-161B22?style=flat-square&logo=python&logoColor=3776AB)
-![C++](https://img.shields.io/badge/C%2B%2B-161B22?style=flat-square&logo=cplusplus&logoColor=00599C)
-![C](https://img.shields.io/badge/C-161B22?style=flat-square&logo=c&logoColor=A8B9CC)
-![C#](https://img.shields.io/badge/C%23-161B22?style=flat-square)
-![JavaScript](https://img.shields.io/badge/JavaScript-161B22?style=flat-square&logo=javascript&logoColor=F7DF1E)
+</details>
 
-**Backend & AI**
+<a id="stack"></a>
 
-![FastAPI](https://img.shields.io/badge/FastAPI-161B22?style=flat-square&logo=fastapi&logoColor=009688)
-![Node.js](https://img.shields.io/badge/Node.js-161B22?style=flat-square&logo=nodedotjs&logoColor=5FA04E)
-![PyTorch](https://img.shields.io/badge/PyTorch-161B22?style=flat-square&logo=pytorch&logoColor=EE4C2C)
+## ⚙️ Technical Stack
 
-**Hardware & Interactive Systems**
+<table>
+<tr>
+<td><strong>Languages</strong></td>
+<td>
+<img src="https://img.shields.io/badge/Python-161B22?style=flat-square&logo=python&logoColor=3776AB" alt="Python">
+<img src="https://img.shields.io/badge/C%2B%2B-161B22?style=flat-square&logo=cplusplus&logoColor=00599C" alt="C++">
+<img src="https://img.shields.io/badge/C-161B22?style=flat-square&logo=c&logoColor=A8B9CC" alt="C">
+<img src="https://img.shields.io/badge/C%23-161B22?style=flat-square" alt="C#">
+<img src="https://img.shields.io/badge/JavaScript-161B22?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
+</td>
+</tr>
+<tr>
+<td><strong>Systems & Containers</strong></td>
+<td>
+<img src="https://img.shields.io/badge/Linux-161B22?style=flat-square&logo=linux&logoColor=FCC624" alt="Linux">
+<img src="https://img.shields.io/badge/Docker-161B22?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker">
+</td>
+</tr>
+<tr>
+<td><strong>Applications</strong></td>
+<td>
+<img src="https://img.shields.io/badge/FastAPI-161B22?style=flat-square&logo=fastapi&logoColor=009688" alt="FastAPI">
+<img src="https://img.shields.io/badge/Node.js-161B22?style=flat-square&logo=nodedotjs&logoColor=5FA04E" alt="Node.js">
+<img src="https://img.shields.io/badge/React-161B22?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
+</td>
+</tr>
+<tr>
+<td><strong>Databases</strong></td>
+<td>
+<img src="https://img.shields.io/badge/MySQL-161B22?style=flat-square&logo=mysql&logoColor=4479A1" alt="MySQL">
+<img src="https://img.shields.io/badge/PostgreSQL-161B22?style=flat-square&logo=postgresql&logoColor=4169E1" alt="PostgreSQL">
+</td>
+</tr>
+<tr>
+<td><strong>AI</strong></td>
+<td>
+<img src="https://img.shields.io/badge/PyTorch-161B22?style=flat-square&logo=pytorch&logoColor=EE4C2C" alt="PyTorch">
+</td>
+</tr>
+<tr>
+<td><strong>IoT & Messaging</strong></td>
+<td>
+<img src="https://img.shields.io/badge/Arduino-161B22?style=flat-square&logo=arduino&logoColor=00878F" alt="Arduino">
+<img src="https://img.shields.io/badge/MQTT-161B22?style=flat-square&logo=mqtt&logoColor=B39DDB" alt="MQTT">
+</td>
+</tr>
+<tr>
+<td><strong>Interactive Systems</strong></td>
+<td>
+<img src="https://img.shields.io/badge/Unity-161B22?style=flat-square&logo=unity&logoColor=FFFFFF" alt="Unity">
+</td>
+</tr>
+</table>
 
-![Arduino](https://img.shields.io/badge/Arduino-161B22?style=flat-square&logo=arduino&logoColor=00878F)
-![Unity](https://img.shields.io/badge/Unity-161B22?style=flat-square&logo=unity&logoColor=FFFFFF)
+<a id="notes"></a>
+
+## 📚 Learning Journal
+
+My study notes and learning records are collected in Notion.
+
+<a href="https://app.notion.com/p/25-03-36fe5af9ec6b8003918ffc6202ecd07d"><img src="https://img.shields.io/badge/Notion-Explore_My_Study_Notes-2563EB?style=for-the-badge&logo=notion&logoColor=white" alt="Explore my study notes on Notion"></a>
 
 ---
 

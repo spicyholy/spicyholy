@@ -2,7 +2,7 @@
 
 # Jinseo Kim
 
-<h3><samp>Systems Software · Efficient AI Inference & Serving · AX Architecture</samp></h3>
+<h3><samp>Systems Software · AI for Resource-constrained environment & AI Serving · AX Architecture</samp></h3>
 
 <h3>Exploring how systems run, how AI runs efficiently,<br>
 and how AI-powered workflows fit together.</h3>

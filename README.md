@@ -2,12 +2,12 @@
 
 # Jinseo Kim
 
-<h3><samp>Systems Software · AI for Resource-constrained environment & AI Serving · AX Architecture</samp></h3>
+<h3>Systems Software · On-device &amp; Edge AI · AX Architecture</h3>
 
-<h3>Exploring how systems run, how AI runs efficiently,<br>
-and how AI-powered workflows fit together.</h3>
-
-<br>
+<p>
+Studying operating systems and researching efficient AI execution.<br>
+Exploring memory management, I/O, and parallel and distributed systems.
+</p>
 
 <a href="mailto:tragic.coding@gmail.com"><img src="https://img.shields.io/badge/CONTACT-tragic.coding%40gmail.com-2563EB?style=flat-square" alt="Email: tragic.coding@gmail.com"></a>
 
@@ -15,85 +15,50 @@ and how AI-powered workflows fit together.</h3>
 
 ---
 
-## whoami
+## About
 
+I'm an undergraduate researcher and developer at **Chung-Ang University**, studying **Art & Technology and Systems Software Engineering** and conducting research on **on-device and edge AI** at the **Computer Systems Laboratory (CSLab)**.
 
-### Chung-Ang University
-fields:
-  - Art & Technology In Development of Software Engineering
-  - System Software
-lab: Computer Systems Laboratory (CSLab) In Development of Computer Engineering
+My primary interest is **systems software, especially operating systems**. I approach efficient AI execution through **memory management, I/O behavior, and the coordination of computation and data movement**. I also explore how parallel and distributed systems can support AI workloads across devices, edge infrastructure, and servers.
 
-### Interests:
-  - Operating Systems
-  - Memory Management
-  - GPU Computing
-  - On-device AI
-  - AI Serving
-  - AX Architecture Design
+Alongside these interests, I study **AX architecture design**: designing how AI models, agents, tools, and backend services work together in practical workflows.
 
+## Research & Learning
 
-I'm a developer interested in systems software, efficient AI inference and serving,
-and AX architecture design.
+| Area | Focus |
+| :--- | :--- |
+| **Systems Software & Operating Systems** | Memory management, I/O, concurrency, and resource management |
+| **On-device & Edge AI** | Efficient inference under memory and compute constraints; AI execution across device, edge, and server environments |
+| **AX Architecture Design** | AI workflow architecture, agent orchestration, and integration with tools and backend services |
 
-My interests span the systems that execute AI and the architectures that put AI
-to work.
+Across these areas, I am interested in how **memory capacity, data movement, synchronization, and communication overhead** shape system performance and scalability.
 
-## toolbox
+## Engineering Projects
 
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-161B22?style=flat-square&logo=python&logoColor=3776AB)
-![C++](https://img.shields.io/badge/C%2B%2B-161B22?style=flat-square&logo=cplusplus&logoColor=00599C)
-![C](https://img.shields.io/badge/C-161B22?style=flat-square&logo=c&logoColor=A8B9CC)
-![C#](https://img.shields.io/badge/C%23-161B22?style=flat-square)
-![JavaScript](https://img.shields.io/badge/JavaScript-161B22?style=flat-square&logo=javascript&logoColor=F7DF1E)
-
-**Backend & AI**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-161B22?style=flat-square&logo=fastapi&logoColor=009688)
-![Node.js](https://img.shields.io/badge/Node.js-161B22?style=flat-square&logo=nodedotjs&logoColor=5FA04E)
-![PyTorch](https://img.shields.io/badge/PyTorch-161B22?style=flat-square&logo=pytorch&logoColor=EE4C2C)
-
-**Hardware**
-
-![Arduino](https://img.shields.io/badge/Arduino-161B22?style=flat-square&logo=arduino&logoColor=00878F)
-
-## projects
+Alongside my research and studies, I build **backend services and IoT applications**, connecting APIs, sensors, physical devices, and interactive software.
 
 ### Robot Arm for Aircraft Wing Drilling
 
-`Robotics` `Industrial Automation` `Software–Hardware Interface` `FastAPI` `System Computing`
+`Industrial Automation` `Software–Hardware Integration` `FastAPI`
 
-Software interface development for an industrial robotic arm that drills holes
-in aircraft wings.
+Developed a software interface for an industrial robotic arm used to drill holes in aircraft wings, connecting application-level software with physical automation equipment.
 
 ### Smart Door
 
-`IoT` `Arduino` `MQTT` `Weather API` `Software–Hardware Integration` `node.js` `React`
+`IoT` `Arduino` `MQTT` `Node.js` `React` `Weather API`
 
-A smart entrance system that helps users remember everyday essentials before
-leaving home.
+Built a smart entrance system that combines sensor input, weather data, and device control to help users remember essentials before leaving home.
 
-- Detects departure using Arduino-connected sensors.
-- Uses weather API data to trigger an automatic umbrella holder.
+- Detects departure through Arduino-connected sensors.
+- Uses weather information to activate an automatic umbrella holder.
 - Provides voice reminders for frequently forgotten items.
 
 ### Lego Digital World
 
-`Digital Twin` `Unity` `Physical-to-Digital` `3D Interaction` `FastAPI` `WebSocket`
+`Digital Twin` `Unity` `FastAPI` `WebSocket` `3D Interaction`
 
-A digital twin project that brings physically assembled LEGO creations into a
-shared Unity world.
+Built a physical-to-digital experience that brings real LEGO creations into a shared Unity environment through backend services and real-time communication.
 
-- Recognizes real-world LEGO creations and recreates them in 3D.
-- Animates characters according to user-specified actions.
-- Enables interaction with characters created by other users.
-
----
-
-<div align="center">
-<samp>From physical interfaces to the systems behind AI.</samp>
-<br><br>
-<a href="mailto:tragic.coding@gmail.com">tragic.coding@gmail.com</a>
-</div>
+- Recreates physically assembled LEGO creations as 3D assets.
+- Animates characters based on user-specified actions.
+- Supports interaction with characters created by other users.

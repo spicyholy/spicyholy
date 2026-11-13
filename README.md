@@ -48,8 +48,8 @@ Systems Software Engineering · Art & Technology
 | :--- | :--- | :--- |
 | **2026–Present** | Undergraduate Researcher · On-device AI | **Computer Systems Laboratory (CSLab)**<br>Department of Computer Engineering, Chung-Ang University |
 | **2026** | Academic Excellence Recognition | **Chung-Ang University** |
-| **2026** | CAU 앵커 창업경진대회 최우수팀 선정<br>AI 크리에이터들의 거래가능한 커뮤니티 플랫폼 "Diretory" | **중앙대학교** |
-| **2026** | 안성시 대학생 창업아이템경진대회 우수상<br>AI 크리에이터들의 거래가능한 커뮤니티 플랫폼 "Diretory" | **안성시** |
+| **2026** | Best Team · CAU Anchor Startup Competition<br>"Diretory," a community platform where AI creators can trade | **Chung-Ang University** |
+| **2026** | Excellence Award · Anseong City University Student Startup Idea Competition<br>"Diretory," a community platform where AI creators can trade | **Anseong City** |
 | **2025** | Undergraduate Researcher · AI Team | **Complex Intelligent System Lab (CISLab)**<br>Department of Art & Technology, Chung-Ang University |
 | **2023–2024** | Honor Guard · Sergeant<br>Completed full military service | **Republic of Korea Ministry of National Defense** |
 

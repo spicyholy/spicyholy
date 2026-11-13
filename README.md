@@ -42,14 +42,14 @@ I conduct research on **on-device and edge AI** and explore **parallel and distr
 **Chung-Ang University**  
 Systems Software Engineering · Art & Technology
 
-## 🏅 Experience & Recognition
+## 🏅 경력/수상
 
 | Period | Experience | Organization |
 | :--- | :--- | :--- |
 | **2026–Present** | Undergraduate Researcher · On-device AI | **Computer Systems Laboratory (CSLab)**<br>Department of Computer Engineering, Chung-Ang University |
 | **2026** | Academic Excellence Recognition | **Chung-Ang University** |
-| **2026** | Best Team · CAU Anchor Startup Competition<br>"Diretory," a community platform where AI creators can trade | **Chung-Ang University** |
-| **2026** | Excellence Award · Anseong City University Student Startup Idea Competition<br>"Diretory," a community platform where AI creators can trade | **Anseong City** |
+| **2026** | Best Team<br>"Diretory," a community platform where AI creators can trade | **CAU Anchor Startup Competition**<br>Chung-Ang University |
+| **2026** | Excellence Award<br>"Diretory," a community platform where AI creators can trade | **Anseong City University Student Startup Idea Competition**<br>Anseong City |
 | **2025** | Undergraduate Researcher · AI Team | **Complex Intelligent System Lab (CISLab)**<br>Department of Art & Technology, Chung-Ang University |
 | **2023–2024** | Honor Guard · Sergeant<br>Completed full military service | **Republic of Korea Ministry of National Defense** |
 

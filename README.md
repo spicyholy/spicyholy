@@ -42,7 +42,7 @@ I conduct research on **on-device and edge AI** and explore **parallel and distr
 **Chung-Ang University**  
 Systems Software Engineering · Art & Technology
 
-## 🏅 경력/수상
+## 🏅 Experience & Awards
 
 | Period | Experience | Organization |
 | :--- | :--- | :--- |

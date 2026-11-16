@@ -96,7 +96,7 @@ Alongside my research and studies, I investigate **efficient AI execution** and 
 
 Investigating whether layers with the largest quantization error are also the layers whose FP32 restoration recovers the most classification accuracy.
 
-`PyTorch` `Quantization` `Image Classification`
+`On-Device AI` `Efficient AI Execution` `Memory` `Optimization` `Quantization` `PyTorch` `Research` `Image Classification`
 
 ### 🤖 Robot Arm for Aircraft Wing Drilling
 

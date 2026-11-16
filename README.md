@@ -88,7 +88,15 @@ I explore these questions through **operating systems and parallel and distribut
 
 ## 🛠️ Selected Projects
 
-Alongside my research and studies, I build **backend services and IoT applications** that connect software, data, and physical devices.
+Alongside my research and studies, I investigate **efficient AI execution** and build **backend services and IoT applications** that connect software, data, and physical devices.
+
+### 🔬 [Layerwise Quantization Error and Accuracy Recovery in Image Classifiers](https://github.com/2026-CV-Project-Team/Layerwise-Quantization-Error-and-Accuracy-Recovery-in-Image-Classifiers)
+
+**Computer vision research · Post-training quantization · Mixed precision**
+
+Investigating whether layers with the largest quantization error are also the layers whose FP32 restoration recovers the most classification accuracy.
+
+`PyTorch` `Quantization` `Image Classification`
 
 ### 🤖 Robot Arm for Aircraft Wing Drilling
 

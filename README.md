@@ -90,70 +90,73 @@ I explore these questions through **operating systems and parallel and distribut
 
 Alongside my research and studies, I investigate **efficient AI execution** and build **backend services and IoT applications** that connect software, data, and physical devices.
 
-### 🔬 [Layerwise Quantization Error and Accuracy Recovery in Image Classifiers](https://github.com/2026-CV-Project-Team/Layerwise-Quantization-Error-and-Accuracy-Recovery-in-Image-Classifiers)
+### 🔬 Research
 
-**Computer vision research · Post-training quantization · Mixed precision**
+<table>
+<tr><td width="100%">
+<h4><a href="https://github.com/2026-CV-Project-Team/Layerwise-Quantization-Error-and-Accuracy-Recovery-in-Image-Classifiers">Layerwise Quantization Error and Accuracy Recovery in Image Classifiers</a></h4>
+<p><strong>Computer vision research · Post-training quantization · Mixed precision</strong></p>
+<p>Investigating whether layers with the largest quantization error are also the layers whose FP32 restoration recovers the most classification accuracy.</p>
+<p><code>On-Device AI</code> <code>Efficient AI Execution</code> <code>Memory</code> <code>Optimization</code> <code>Quantization</code> <code>PyTorch</code> <code>Research</code> <code>Image Classification</code></p>
+</td></tr>
+</table>
 
-Investigating whether layers with the largest quantization error are also the layers whose FP32 restoration recovers the most classification accuracy.
+### 🤝 Industry-Academia Collaboration
 
-`On-Device AI` `Efficient AI Execution` `Memory` `Optimization` `Quantization` `PyTorch` `Research` `Image Classification`
-
-### 🤖 Robot Arm for Aircraft Wing Drilling
-
-**Industrial automation · Software–hardware integration**
-
-A software interface for an industrial robotic arm used to drill holes in aircraft wings.
-
-`FastAPI` `Industrial Automation` `Software–Hardware Interface`
-
+<table>
+<tr><td width="100%">
+<h4>🤖 Robot Arm for Aircraft Wing Drilling</h4>
+<p><strong>Industrial automation · Software–hardware integration</strong></p>
+<p>A software interface for an industrial robotic arm used to drill holes in aircraft wings.</p>
+<p><code>FastAPI</code> <code>Industrial Automation</code> <code>Software–Hardware Interface</code></p>
 <details>
 <summary><strong>View project focus</strong></summary>
-
-- Connects application-level software with physical automation equipment.
-- Focuses on the interface between software and the drilling workflow.
-
+<ul>
+<li>Connects application-level software with physical automation equipment.</li>
+<li>Focuses on the interface between software and the drilling workflow.</li>
+</ul>
 </details>
+</td></tr>
+</table>
 
-### 🚪 Smart Door
+### 🧩 Personal Projects
 
-**IoT · Backend services · Sensor-driven automation**
-
-A smart entrance system that combines departure detection, weather information, and reminders for everyday essentials.
-
-`Node.js` `React` `MySQL` `MQTT` `Arduino` `Weather API`
-
+<table>
+<tr><td width="100%">
+<h4>🚪 Smart Door</h4>
+<p><strong>IoT · Backend services · Sensor-driven automation</strong></p>
+<p>A smart entrance system that combines departure detection, weather information, and reminders for everyday essentials.</p>
+<p><code>Node.js</code> <code>React</code> <code>MySQL</code> <code>MQTT</code> <code>Arduino</code> <code>Weather API</code></p>
 <details>
-<summary><strong>View features & integration</strong></summary>
-
-| Component | Role |
-| :--- | :--- |
-| **Sensors & Arduino** | Departure detection and physical device control |
-| **MQTT** | Messaging between connected devices and services |
-| **MySQL** | Application data storage |
-| **Weather API** | Weather information for automatic umbrella-holder activation |
-| **Voice reminders** | Reminders for frequently forgotten items |
-
+<summary><strong>View features &amp; integration</strong></summary>
+<ul>
+<li><strong>Sensors &amp; Arduino:</strong> Departure detection and physical device control</li>
+<li><strong>MQTT:</strong> Messaging between connected devices and services</li>
+<li><strong>MySQL:</strong> Application data storage</li>
+<li><strong>Weather API:</strong> Weather information for automatic umbrella-holder activation</li>
+<li><strong>Voice reminders:</strong> Reminders for frequently forgotten items</li>
+</ul>
 </details>
+</td></tr>
+</table>
 
-### 🧱 Lego Digital World
-
-**Digital twin · Backend services · Real-time interaction**
-
-A physical-to-digital experience that brings real LEGO creations into a shared Unity environment.
-
-`FastAPI` `PostgreSQL` `WebSocket` `Unity` `3D Interaction`
-
+<table>
+<tr><td width="100%">
+<h4>🧱 Lego Digital World</h4>
+<p><strong>Digital twin · Backend services · Real-time interaction</strong></p>
+<p>A physical-to-digital experience that brings real LEGO creations into a shared Unity environment.</p>
+<p><code>FastAPI</code> <code>PostgreSQL</code> <code>WebSocket</code> <code>Unity</code> <code>3D Interaction</code></p>
 <details>
-<summary><strong>View features & integration</strong></summary>
-
-| Component | Role |
-| :--- | :--- |
-| **3D assets** | Digital representations of physically assembled LEGO creations |
-| **FastAPI & PostgreSQL** | Backend services and application data storage |
-| **WebSocket** | Real-time communication between backend services and Unity |
-| **Unity** | Character animation and interaction with other users' characters |
-
+<summary><strong>View features &amp; integration</strong></summary>
+<ul>
+<li><strong>3D assets:</strong> Digital representations of physically assembled LEGO creations</li>
+<li><strong>FastAPI &amp; PostgreSQL:</strong> Backend services and application data storage</li>
+<li><strong>WebSocket:</strong> Real-time communication between backend services and Unity</li>
+<li><strong>Unity:</strong> Character animation and interaction with other users' characters</li>
+</ul>
 </details>
+</td></tr>
+</table>
 
 <a id="stack"></a>
 
